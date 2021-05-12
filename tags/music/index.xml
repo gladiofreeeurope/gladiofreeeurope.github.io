@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on Gladio Free Europe</title>
+    <link>https://gladiofreeeurope.github.io/tags/music/</link>
+    <description>Recent content in music on Gladio Free Europe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 -0400</lastBuildDate><atom:link href="https://gladiofreeeurope.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yegor Letov and the National Bolsheviks</title>
+      <link>https://gladiofreeeurope.github.io/episodes/2021-05-12-yegor-letov-and-the-national-bolsheviks/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://gladiofreeeurope.github.io/episodes/2021-05-12-yegor-letov-and-the-national-bolsheviks/</guid>
+      <description>The Soviet Union, Punk Rock, Communism, KGB repression, Fasscism, and more in this episode about Siberian singer and songwriter Yegor Letov</description>
+    </item>
+    
+    <item>
+      <title>Channels of Rage</title>
+      <link>https://gladiofreeeurope.github.io/episodes/2021-04-07-channels-of-rage/</link>
+      <pubDate>Wed, 07 Apr 2021 12:00:00 -0400</pubDate>
+      
+      <guid>https://gladiofreeeurope.github.io/episodes/2021-04-07-channels-of-rage/</guid>
+      <description>We discuss the 2003 Israeli documentary Channels of Rage that follows around a couple of rappers in Tel Aviv and discuss the political situation in which it was filmed in.</description>
+    </item>
+    
+  </channel>
+</rss>
