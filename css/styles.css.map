@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "E:/Podcast/WEBSITE",
+	"sourceRoot": "C:/Code/WEBSITE",
 	"sources": [
 		"themes/gladio-free-europe/assets/sass/main.scss",
 		"themes/gladio-free-europe/assets/sass/_normalize.scss",
