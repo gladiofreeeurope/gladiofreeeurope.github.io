@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Users/Liam/Documents/GitHub/website",
+	"sourceRoot": "C:/Users/ostsa/OneDrive/Documents/GitHub/website",
 	"sources": [
 		"themes/gladio-free-europe/assets/sass/main.scss",
 		"themes/gladio-free-europe/assets/sass/_normalize.scss",
